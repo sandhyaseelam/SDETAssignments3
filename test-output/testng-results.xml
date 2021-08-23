@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11480" started-at="2021-08-23T12:46:10Z" finished-at="2021-08-23T12:46:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11480" started-at="2021-08-23T12:46:10Z" finished-at="2021-08-23T12:46:22Z">
+      <class name="SwaggerUIWithRestAssured.RestAssuredAPI">
+        <test-method status="PASS" signature="getAccessToken()[pri:0, instance:SwaggerUIWithRestAssured.RestAssuredAPI@28feb3fa]" name="getAccessToken" duration-ms="7761" started-at="2021-08-23T18:16:10Z" finished-at="2021-08-23T18:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccessToken -->
+        <test-method status="PASS" signature="LogIntoSwaggerUIApplicationAsAdmin()[pri:0, instance:SwaggerUIWithRestAssured.RestAssuredAPI@28feb3fa]" name="LogIntoSwaggerUIApplicationAsAdmin" duration-ms="684" started-at="2021-08-23T18:16:18Z" finished-at="2021-08-23T18:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIntoSwaggerUIApplicationAsAdmin -->
+        <test-method status="PASS" signature="AddNewCustomers()[pri:0, instance:SwaggerUIWithRestAssured.RestAssuredAPI@28feb3fa]" name="AddNewCustomers" duration-ms="1728" started-at="2021-08-23T18:16:19Z" finished-at="2021-08-23T18:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomers -->
+        <test-method status="PASS" signature="getCustomerDetailsById()[pri:0, instance:SwaggerUIWithRestAssured.RestAssuredAPI@28feb3fa]" name="getCustomerDetailsById" duration-ms="584" started-at="2021-08-23T18:16:21Z" finished-at="2021-08-23T18:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCustomerDetailsById -->
+        <test-method status="PASS" signature="getAddedFromDetails()[pri:0, instance:SwaggerUIWithRestAssured.RestAssuredAPI@28feb3fa]" name="getAddedFromDetails" duration-ms="643" started-at="2021-08-23T18:16:21Z" finished-at="2021-08-23T18:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAddedFromDetails -->
+      </class> <!-- SwaggerUIWithRestAssured.RestAssuredAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
